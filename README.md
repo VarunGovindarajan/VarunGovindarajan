@@ -81,31 +81,19 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VarunGovindarajan&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunGovindarajan&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunGovindarajan&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
 ## 📈 Contribution Graph
 
 [![Varun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarunGovindarajan&theme=tokyo-night)](https://github.com/VarunGovindarajan)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VarunGovindarajan&theme=tokyonight&row=1&column=7" />
-</p>
 
 ---
 
